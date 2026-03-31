@@ -1,6 +1,6 @@
 AI Rock Paper Scissors 🎮🤖
 
-=====================================================
+====================================================
 
 An interactive Rock-Paper-Scissors game powered by an adaptive AI 🤖✨  
 Built using Python 🐍 and CustomTkinter, this project shows how simple AI can create a smart and engaging game experience.
